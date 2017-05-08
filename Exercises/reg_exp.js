@@ -1,0 +1,11 @@
+var str = "Visit W3Schools!";
+var n = str.search("W3Schools");
+console.log(n);
+var str2 = "I am a Brainstation student";
+var m = str2.search("Brainstation");
+console.log(m);
+var str3 = "I am a student";
+var p = str3.search("Brainstation");
+console.log(p);
+var z = str2.replace("Brainstation student","Junior Developer");
+console.log(z);

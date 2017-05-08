@@ -1,0 +1,10 @@
+var int_string = String(12);
+console.log(int_string);
+var str_int = Number("113");
+console.log(str_int);
+var str_float = parseFloat("1.12356");
+console.log(str_float);
+var x = Number("Hello World");
+console.log(x);
+var y = Number();
+console.log(y);
