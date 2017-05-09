@@ -29,41 +29,63 @@ div
 
 /* FIRST ROW : FLOATS; */
 .a1 {
+	float: right;
 }
 
 .b1 {
 }
 
 .c1 {
+	float: right;
 }
 
 .d1 {
+	float: left;
 }
 
-/* SECOND ROW : DISPLAY */
-
+/* Second ROW : Display; */
 .a2 {
+
 }
 
 .b2 {
+	display: none;
 }
 
 .c2 {
+	display: inline;
+
 }
 
 .d2 {
+	display: block;
 }
 
-/* THIRD ROW : POSITION */
-
+/* Third ROW : Position; */
 .a3 {
+
 }
 
 .b3 {
+	position: relative;
+	bottom: 40px;
+	left: 20px;
 }
 
 .c3 {
+	position: relative;
+	top: 40px;
+	left: 300px;
 }
 
 .d3 {
+	position: relative;
+	bottom: 150px;
+	left: 0px;
+}
+
+.c1 {
+}
+
+.d1 {
 }
